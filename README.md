@@ -6,7 +6,7 @@ Scenario: you and your colleague, Lucifer, are in jail and suspected of committi
 (http://www.iterated-prisoners-dilemma.net)
 
 ## How to implement
-All you have to do is adopt the Person Protocol and implement neccesary variables & functions.
+All you have to do is adopt the Player Protocol and implement neccesary variables & functions.
 I added some sample Player's to give you the idea.
 
 ## How to test
